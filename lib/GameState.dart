@@ -1,0 +1,1 @@
+enum GameState {playing, done, draw}
